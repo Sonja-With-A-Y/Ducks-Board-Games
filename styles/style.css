@@ -1,0 +1,43 @@
+html {
+    font-size: 10px; /* px means "pixels": the base font size is now 10 pixels high  */
+    font-family: "Roboto", sans-serif; /* this should be the rest of the output you got from Google fonts */
+  }
+
+  h1 {
+    font-size: 50px;
+    text-align: center;
+  }
+  
+  p, dt, dd, li, figcaption {
+    font-size: 16px;
+    line-height: 1.5;
+  }
+
+  figcaption {
+    text-align: center;
+  }
+  
+  html {
+    background-color: #f4e367;
+  }
+  
+  body {
+    width: 600px;
+    margin: 0 auto;
+    background-color: #8fcee6;
+    padding: 0 20px 20px 20px;
+    border: 5px solid black;
+  }
+
+  h1 {
+    margin: 0;
+    padding: 20px 0;
+    color: #00539F;
+    text-shadow: 2px 2px 3px black;
+  }
+  
+  img {
+    display: block;
+    margin: 0 auto;
+  }
+  
